@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_margin">8dp</dimen>
+    <dimen name="horizontal_margin">12dp</dimen>
+    <dimen name="btn_margin_vertical">20dp</dimen>
+    <dimen name="fs_100">18sp</dimen>
+    <dimen name="fs_200">25sp</dimen>
+    <dimen name="fs_300">35sp</dimen>
+</resources>

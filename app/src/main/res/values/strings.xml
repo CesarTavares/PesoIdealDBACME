@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PesoIdealDBACME</string>
+    <string name="lbl_female">F</string>
+    <string name="lbl_male">M</string>
+    <string name="lbl_name">Nome:</string>
+    <string name="lbl_weight">Peso:</string>
+    <string name="lbl_height">Altura:</string>
+    <string name="btn_calculate_imc">Calcular IMC</string>
+    <string name="btn_show_all">Lista de  Registros ></string>
+    <string name="lbl_records">Pacientes</string>
+</resources>
